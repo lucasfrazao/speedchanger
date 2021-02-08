@@ -1,0 +1,25 @@
+{
+    "manifest_version" : 2,
+    "name": "Speed Changer for WhatsApp",
+    "version": "0.1",
+    "author": "Lucas Frazão",
+    "description": "Audio speed controller adjusts playback speed for Whatsapp for web messages. Don't waste your time with long audio messages.",
+    "browser_action": {
+        "default_icon": "speedchanger.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://web.whatsapp.com/"
+            ],
+
+            "css": [
+                "style.css"
+            ],
+
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
