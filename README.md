@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Logo Doe Sangue" src="logo2.png" />
-</h1>
-
 <p align="center"> <strong>Speed Changer</strong> é uma extensão web desenvolvida com objetivo de facilitar você a não perder seu tempo com longas mensagens de áudio. </p>
 
 ## 🚀 Tecnologias
