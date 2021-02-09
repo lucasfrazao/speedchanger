@@ -8,8 +8,8 @@
 A extensão ainda está em fase de teste, mas sinta se a vontade para clonar o projeto e utilizar no seu navegador, seguindo os passos abaixo. ( _Obs.: verifique se o seu navegador tem compatibilidade com extensões do Chrome_ )
 * Faça [um clone](https://github.com/lucasfrazao/speedchanger) desse repositório;
 * Em seguida acesse o link para configurações das extensões de acordo com o seu navegador: 
-  - [Edge](edge://extensions/)
-  - [Chrome](chrome://extensions/)
+  - Edge `edge://extensions/`
+  - Chrome `chrome://extensions/`
 * Ative o modo de desenvolvedor;
 * Arraste a pasta do projeto para o navegador e recarregue o WhatsApp Web, e o botão "2x" vai aparecer na canto superior das conversas.
 
